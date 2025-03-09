@@ -33,7 +33,7 @@ pip install -r requirements.txt
 Execute the script with:
 
 ```sh
-python app.py
+python translator.py
 ```
 
 The server will start at `http://localhost:5555/`.
